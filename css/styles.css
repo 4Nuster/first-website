@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;  
+    color: #40514E;
+}
+
+h1 {
+    color: #66BFBF;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    margin: 0 auto 0px auto;
+    font-size: 7rem;
+    line-height: 2;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: white;
+}
+
+.top {
+    background-color: #E4F5F9;
+    padding-top: 10%;
+    /*height: 100%;*/
+}
+/*
+.middle {
+
+}
+*/
+
+.bottom {
+    background-color: #66BFBF;
+    padding: 30px;
+    line-height: 2;
+    margin-left: 0;
+}
+
+hr  {
+    border: none;
+    border-top: 7px dotted;
+    width: 7%;
+    color: #D2D2D2;
+}
+
+.top-cloud {
+    position: relative;
+    left: 450px;
+}
+
+.fuckin {
+    font-style: italic;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 350px;
+}
+
+.mountain {
+    width: 40%;
+    
+}
+
+.not {
+    font-style: italic;
+}
+
+.profile {
+    width: 50%;
+    margin: 100px auto;
+}
+
+.bio {
+    width: 50%;
+    line-height: 2;
+    margin: auto;
+}
+
+.bio2 {
+    width: 30%;
+    line-height: 2;
+    margin: 30px auto;
+}
+
+.btn {
+	background-color:#66BFBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+    text-decoration:none;
+    border-radius: 42px;
+}
+.btn:hover {
+	background-color:#11999E;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.skills {
+    margin: 100px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+    font-size: large;
+}
+
+.a-pic {
+    width: 25%;
+    margin-bottom: 20px;
+} 
+
+.pc-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-me {
+    margin: 100px auto;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
